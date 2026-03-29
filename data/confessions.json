@@ -1,0 +1,54 @@
+[
+  {
+    "id": "e25df885-e104-4a8d-9d27-02ca2cd880e9",
+    "text": "I've been sitting across from you in the library every Tuesday for three months. You always wear that dark green sweater. Yesterday, when you leaned over to plug in your laptop, your arm brushed mine and I completely forgot how to breathe. I keep imagining what would happen if I just followed you into the stacks and finally told you exactly what I want to do to you.",
+    "category": "Relationships",
+    "handle": "ANONYMOUS_091",
+    "timestamp": "03.29.2026 — 20:40",
+    "createdAt": 1774796153050,
+    "likes": 0,
+    "views": 0,
+    "status": "approved",
+    "redactedWords": []
+  },
+  {
+    "id": "seed-1",
+    "text": "I told everyone I turned down the promotion because I wanted to spend more time with my family. The truth is I was terrified I would fail. I have been terrified of succeeding my entire life.",
+    "category": "Career",
+    "handle": "ANONYMOUS_419",
+    "timestamp": "03.29.2026 — 02:14",
+    "createdAt": 1743213240000,
+    "likes": 4822,
+    "views": 91200,
+    "status": "approved",
+    "redactedWords": [
+      "terrified"
+    ]
+  },
+  {
+    "id": "seed-2",
+    "text": "Every morning I drive past the house where I grew up. I never stop. I just slow down and look at the light in the kitchen window and try to remember what it felt like before everything became so goddamn quiet.",
+    "category": "Grief",
+    "handle": "ANONYMOUS_07",
+    "timestamp": "03.28.2026 — 23:58",
+    "createdAt": 1743123480000,
+    "likes": 12048,
+    "views": 204800,
+    "status": "approved",
+    "redactedWords": [
+      "goddamn"
+    ]
+  },
+  {
+    "id": "seed-3",
+    "text": "I have been pretending to be fine for so long that I genuinely cannot tell anymore whether I am fine or not. That is either a superpower or a tragedy. I suspect it is both.",
+    "category": "Identity",
+    "handle": "ANONYMOUS_881",
+    "timestamp": "03.27.2026 — 04:31",
+    "createdAt": 1743036660000,
+    "likes": 9315,
+    "views": 173600,
+    "status": "approved",
+    "redactedWords": []
+  }
+]
