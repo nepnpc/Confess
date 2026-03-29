@@ -14,7 +14,7 @@ export default function AdminLoginPage() {
         {/* Wordmark */}
         <div className="mb-14 text-center">
           <span className="font-[family-name:var(--font-playfair)] text-3xl text-[#e8e0d4] italic">
-            Confess.
+            DMC Confesses
           </span>
           <p className="mt-2 font-[family-name:var(--font-geist-mono)] text-[10px] tracking-[0.3em] uppercase text-[#2e2b28]">
             Admin Access

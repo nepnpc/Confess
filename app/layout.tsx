@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Confess — Anonymous Confessions",
-  description: "The internet's darkest confessional. Say what you can't say anywhere else.",
+  title: "DMC Confesses — Anonymous Confessions",
+  description: "DMC's anonymous confessional. Say what you can't say anywhere else.",
 };
 
 export default function RootLayout({

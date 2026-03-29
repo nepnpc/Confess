@@ -60,7 +60,7 @@ export default function HomeClient({
         <footer className="border-t border-white/[0.04] px-6 md:px-16 lg:px-24 py-10">
           <div className="flex items-center justify-between">
             <span className="font-[family-name:var(--font-playfair)] text-xl text-[#2e2b28] italic">
-              Confess.
+              DMC Confesses
             </span>
             <a
               href="/admin/login"
@@ -99,8 +99,8 @@ function HeroSection({ onSubmitClick }: { onSubmitClick: () => void }) {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1.4, ease: [0.16, 1, 0.3, 1], delay: 0.2 }}
         >
-          <h1 className="font-[family-name:var(--font-playfair)] text-[clamp(5rem,16vw,14rem)] leading-[0.9] text-[#e8e0d4] font-normal tracking-[-0.03em] select-none">
-            Confess.
+          <h1 className="font-[family-name:var(--font-playfair)] text-[clamp(3rem,10vw,9rem)] leading-[0.9] text-[#e8e0d4] font-normal tracking-[-0.03em] select-none">
+            DMC Confesses
           </h1>
         </motion.div>
 
